@@ -172,7 +172,7 @@ export default function IndiaMap({
       zoomControl
     >
       <TileLayer
-        attribution='&copy; <a href="https://carto.com">CARTO</a>'
+        attribution='&copy; <a href="https://carto.com">CARTO</a> | Boundaries as per Survey of India'
         url="https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png"
       />
       <GeoJSON

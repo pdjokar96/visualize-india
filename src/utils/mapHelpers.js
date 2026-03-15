@@ -45,7 +45,7 @@ export function getHistoricalStateStyle(feature, isNew) {
 }
 
 export const INDIA_BOUNDS = [[6.5, 68.0], [37.5, 97.5]];
-export const INDIA_CENTER = [22.5, 82.0];
+export const INDIA_CENTER = [22.5, 80.0];
 export const DEFAULT_ZOOM = 5;
 
 export const CATEGORY_ICONS = {

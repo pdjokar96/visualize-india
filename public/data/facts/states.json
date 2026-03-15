@@ -3,7 +3,11 @@
     "capital": "Port Blair",
     "area": "8,249 km²",
     "population": "0.38 million (2011 Census)",
-    "languages": ["Hindi", "Bengali", "Tamil"],
+    "languages": [
+      "Hindi",
+      "Bengali",
+      "Tamil"
+    ],
     "overview": "Andaman and Nicobar is a chain of islands in the Bay of Bengal known for rainforests, coral reefs, and rich marine life. Its remote location and layered history make it one of India’s most distinctive union territories.",
     "historical": [
       "The Cellular Jail in Port Blair was used by the British to imprison many Indian freedom fighters.",
@@ -24,15 +28,24 @@
       "The territory is geographically closer to Southeast Asia than to many Indian cities on the mainland."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Andhra Pradesh": {
     "capital": "Amaravati",
     "area": "162,968 km²",
     "population": "49.6 million (2011 Census)",
-    "languages": ["Telugu", "Urdu"],
+    "languages": [
+      "Telugu",
+      "Urdu"
+    ],
     "overview": "Andhra Pradesh stretches along India’s southeastern coast and includes fertile river deltas, major ports, and important pilgrimage centres. It is a leading agricultural state and has played a major role in the history of language-based state formation in India.",
     "historical": [
       "Ancient Amaravati was an important Buddhist centre with a famous stupa and school of sculpture.",
@@ -53,15 +66,25 @@
       "The state is one of India’s leading producers of chillies and mangoes."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Andhra_Pradesh" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Andhra_Pradesh"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Arunachal Pradesh": {
     "capital": "Itanagar",
     "area": "83,743 km²",
     "population": "1.38 million (2011 Census)",
-    "languages": ["English", "Hindi", "Nyishi"],
+    "languages": [
+      "English",
+      "Hindi",
+      "Nyishi"
+    ],
     "overview": "Arunachal Pradesh is India’s northeastern frontier state, famous for its mountains, forests, and remarkable biodiversity. It is one of the least densely populated states in the country and home to many distinct tribal communities.",
     "historical": [
       "Tawang Monastery, founded in the 17th century, is one of the largest Buddhist monasteries in India.",
@@ -82,15 +105,25 @@
       "The state has one of the highest forest covers in India."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Arunachal_Pradesh" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Arunachal_Pradesh"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Assam": {
     "capital": "Dispur",
     "area": "78,438 km²",
     "population": "31.2 million (2011 Census)",
-    "languages": ["Assamese", "Bodo", "Bengali"],
+    "languages": [
+      "Assamese",
+      "Bodo",
+      "Bengali"
+    ],
     "overview": "Assam is centered on the Brahmaputra valley and is famous worldwide for tea, silk, and wildlife. It has been an important gateway between mainland India and the northeast for centuries.",
     "historical": [
       "The Ahom kingdom ruled large parts of Assam for nearly six centuries.",
@@ -111,15 +144,25 @@
       "The state is famous for the greater one-horned rhinoceros, especially in Kaziranga National Park."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Assam" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Assam"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Bihar": {
     "capital": "Patna",
     "area": "94,163 km²",
     "population": "104.1 million (2011 Census)",
-    "languages": ["Hindi", "Urdu", "Maithili"],
+    "languages": [
+      "Hindi",
+      "Urdu",
+      "Maithili"
+    ],
     "overview": "Bihar is one of the great historical heartlands of the Indian subcontinent, linked with ancient kingdoms, religions, and centres of learning. The fertile plains of the Ganga support one of India’s largest populations.",
     "historical": [
       "Ancient Magadha, in present-day Bihar, became one of the most powerful kingdoms in early Indian history.",
@@ -140,15 +183,25 @@
       "Bihar’s history connects both Buddhism and Jainism to major sacred sites."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Bihar" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bihar"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Chandigarh": {
     "capital": "Chandigarh",
     "area": "114 km²",
     "population": "1.06 million (2011 Census)",
-    "languages": ["Hindi", "Punjabi", "English"],
+    "languages": [
+      "Hindi",
+      "Punjabi",
+      "English"
+    ],
     "overview": "Chandigarh is a union territory and a carefully planned modern city that serves as the capital of both Punjab and Haryana. It is known for broad roads, sectors, public gardens, and landmark modernist architecture.",
     "historical": [
       "Chandigarh was developed after Partition to serve as the new capital of Indian Punjab.",
@@ -169,15 +222,24 @@
       "Each neighbourhood is identified by a sector number rather than a traditional locality name."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Chandigarh" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chandigarh"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Chhattisgarh": {
     "capital": "Raipur",
     "area": "135,192 km²",
     "population": "25.5 million (2011 Census)",
-    "languages": ["Hindi", "Chhattisgarhi"],
+    "languages": [
+      "Hindi",
+      "Chhattisgarhi"
+    ],
     "overview": "Chhattisgarh is rich in forests, rivers, minerals, and tribal heritage. Created in 2000, it occupies a large part of central India and includes both industrial belts and deeply forested regions.",
     "historical": [
       "The region was linked to the ancient kingdom of Dakshin Kosala.",
@@ -198,15 +260,25 @@
       "The state has large forested areas that support wildlife such as leopards, bears, and wild buffalo in some regions."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Chhattisgarh" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chhattisgarh"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Dadra and Nagar Haveli": {
     "capital": "Silvassa",
     "area": "491 km²",
     "population": "0.34 million (2011 Census)",
-    "languages": ["Gujarati", "Hindi", "Marathi"],
+    "languages": [
+      "Gujarati",
+      "Hindi",
+      "Marathi"
+    ],
     "overview": "Dadra and Nagar Haveli is a small inland territory between Gujarat and Maharashtra known for its greenery, tribal communities, and industrial estates. Although now administratively merged with Daman and Diu, it remains a separate unit in this map dataset.",
     "historical": [
       "The region was under Portuguese rule for centuries before local liberation in 1954.",
@@ -227,15 +299,25 @@
       "Despite its small size, the territory became an important manufacturing hub because of tax incentives in earlier decades."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Dadra_and_Nagar_Haveli" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dadra_and_Nagar_Haveli"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Daman and Diu": {
     "capital": "Daman",
     "area": "112 km²",
     "population": "0.24 million (2011 Census)",
-    "languages": ["Gujarati", "Hindi", "Konkani"],
+    "languages": [
+      "Gujarati",
+      "Hindi",
+      "Konkani"
+    ],
     "overview": "Daman and Diu consists of two small coastal enclaves on India’s western shore. Its forts, churches, beaches, and fishing settlements reflect a strong mix of Gujarati and Portuguese influence.",
     "historical": [
       "Daman and Diu were important Portuguese possessions on the west coast for more than four centuries.",
@@ -256,15 +338,25 @@
       "The territory is tiny in area but has a long and memorable maritime history."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Daman_and_Diu" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Daman_and_Diu"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Delhi": {
     "capital": "New Delhi",
     "area": "1,484 km²",
     "population": "16.8 million (2011 Census)",
-    "languages": ["Hindi", "Punjabi", "Urdu"],
+    "languages": [
+      "Hindi",
+      "Punjabi",
+      "Urdu"
+    ],
     "overview": "Delhi is India’s national capital territory and one of the country’s most historically layered urban regions. From ancient settlements to imperial capitals and modern government institutions, it has remained central to political life for centuries.",
     "historical": [
       "Delhi has been associated with several historic cities, including those built by the Delhi Sultanate and the Mughals.",
@@ -285,15 +377,25 @@
       "The city contains layers of history from ancient forts to modern parliament buildings within a relatively small area."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Delhi" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Delhi"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Goa": {
     "capital": "Panaji",
     "area": "3,702 km²",
     "population": "1.46 million (2011 Census)",
-    "languages": ["Konkani", "Marathi", "English"],
+    "languages": [
+      "Konkani",
+      "Marathi",
+      "English"
+    ],
     "overview": "Goa is India’s smallest state by area and is famous for beaches, river estuaries, spice farms, and a long maritime history. It combines coastal landscapes with a rich legacy of temples, churches, and trade.",
     "historical": [
       "Goa became a major Portuguese centre in Asia after the early 16th century.",
@@ -314,15 +416,24 @@
       "Cashew cultivation and coconut groves are closely linked with Goan food and livelihoods."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Goa" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Goa"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Gujarat": {
     "capital": "Gandhinagar",
     "area": "196,024 km²",
     "population": "60.4 million (2011 Census)",
-    "languages": ["Gujarati", "Hindi"],
+    "languages": [
+      "Gujarati",
+      "Hindi"
+    ],
     "overview": "Gujarat has a long coastline, strong trading traditions, and landscapes ranging from salt deserts to forests. It has been important to Indian history from the Indus Valley period to the freedom movement and modern industry.",
     "historical": [
       "Lothal in Gujarat was a major city of the Indus Valley Civilization and is famous for its dockyard remains.",
@@ -343,15 +454,24 @@
       "The Statue of Unity in Gujarat is the world’s tallest statue."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Gujarat" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gujarat"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Haryana": {
     "capital": "Chandigarh",
     "area": "44,212 km²",
     "population": "25.4 million (2011 Census)",
-    "languages": ["Hindi", "Punjabi"],
+    "languages": [
+      "Hindi",
+      "Punjabi"
+    ],
     "overview": "Haryana surrounds Delhi on three sides and is one of India’s most agriculturally productive states. It also combines ancient settlement sites with fast-growing urban and industrial centres.",
     "historical": [
       "Rakhigarhi in Haryana is one of the largest known sites of the Indus Valley Civilization.",
@@ -372,15 +492,24 @@
       "Gurugram in Haryana has become a major business and technology hub."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Haryana" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Haryana"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Himachal Pradesh": {
     "capital": "Shimla",
     "area": "55,673 km²",
     "population": "6.86 million (2011 Census)",
-    "languages": ["Hindi", "Pahari"],
+    "languages": [
+      "Hindi",
+      "Pahari"
+    ],
     "overview": "Himachal Pradesh is a Himalayan state of snowy peaks, orchards, river valleys, and hill towns. It is known for mountain tourism, hydropower, and vibrant local traditions.",
     "historical": [
       "Shimla served as the summer capital of British India for many decades.",
@@ -401,20 +530,31 @@
       "The state is one of India’s major apple producers."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Jammu and Kashmir": {
     "capital": "Srinagar (summer), Jammu (winter)",
     "area": "42,241 km²",
     "population": "12.3 million (2011 Census)",
-    "languages": ["Kashmiri", "Dogri", "Urdu"],
-    "overview": "Jammu and Kashmir is known for its mountains, valleys, lakes, and rich traditions of art, craft, and spirituality. The region has long been celebrated in literature and travel writing for its natural beauty.",
+    "languages": [
+      "Kashmiri",
+      "Dogri",
+      "Urdu"
+    ],
+    "overview": "Jammu and Kashmir is a Union Territory of India, reorganized in 2019 from the former state. Jammu and Kashmir is known for its mountains, valleys, lakes, and rich traditions of art, craft, and spirituality. The region has long been celebrated in literature and travel writing for its natural beauty.",
     "historical": [
       "Kashmir was a major centre of Sanskrit learning and later of Persianate and Sufi culture.",
       "Mughal rulers laid out celebrated gardens in and around Srinagar.",
-      "In 2019, the former state was reorganized into the union territories of Jammu and Kashmir and Ladakh."
+      "In 2019, the former state was reorganized into the union territories of Jammu and Kashmir and Ladakh.",
+      "Parts of J&K are illegally occupied by Pakistan (PoK/so-called Azad Kashmir and Gilgit-Baltistan) and China (Aksai Chin). India maintains these are integral parts of its territory."
     ],
     "geological": [
       "The Kashmir Valley lies between the Pir Panjal and Great Himalayan ranges.",
@@ -430,15 +570,25 @@
       "Pampore near Srinagar is famous for saffron cultivation."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Jammu_and_Kashmir_(union_territory)" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jammu_and_Kashmir_(union_territory)"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Jharkhand": {
     "capital": "Ranchi",
     "area": "79,714 km²",
     "population": "33.0 million (2011 Census)",
-    "languages": ["Hindi", "Santali", "Bengali"],
+    "languages": [
+      "Hindi",
+      "Santali",
+      "Bengali"
+    ],
     "overview": "Jharkhand is a mineral-rich state of plateaus, forests, waterfalls, and strong tribal traditions. It was formed in 2000 and remains an important centre for mining, industry, and indigenous culture.",
     "historical": [
       "The region has long been home to Santhal, Munda, Ho, Oraon, and other tribal communities.",
@@ -459,15 +609,24 @@
       "Jamshedpur is often called one of India’s earliest planned industrial cities."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Jharkhand" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jharkhand"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Karnataka": {
     "capital": "Bengaluru",
     "area": "191,791 km²",
     "population": "61.1 million (2011 Census)",
-    "languages": ["Kannada", "Urdu"],
+    "languages": [
+      "Kannada",
+      "Urdu"
+    ],
     "overview": "Karnataka links the Deccan plateau to the Arabian Sea coast and includes major technology, heritage, and biodiversity zones. The state is known for medieval empires, classical music, coffee-growing hills, and modern innovation.",
     "historical": [
       "The Hoysala, Chalukya, and Vijayanagara dynasties left remarkable temples and cities in Karnataka.",
@@ -488,15 +647,24 @@
       "The boulder-strewn landscape around Hampi looks almost like a giant natural sculpture garden."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Karnataka" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Karnataka"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Kerala": {
     "capital": "Thiruvananthapuram",
     "area": "38,863 km²",
     "population": "33.4 million (2011 Census)",
-    "languages": ["Malayalam", "English"],
+    "languages": [
+      "Malayalam",
+      "English"
+    ],
     "overview": "Kerala is a narrow coastal state between the Arabian Sea and the Western Ghats, famous for backwaters, spices, and high social development indicators. Its long history of ocean trade connected it to Arabia, Africa, and Europe.",
     "historical": [
       "Ancient Kerala was part of the Chera realm and took part in the Indian Ocean spice trade.",
@@ -517,15 +685,24 @@
       "Snake boat races on Kerala’s waterways attract huge crowds every year."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Kerala" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kerala"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Lakshadweep": {
     "capital": "Kavaratti",
     "area": "32 km²",
     "population": "0.06 million (2011 Census)",
-    "languages": ["Malayalam", "Mahl"],
+    "languages": [
+      "Malayalam",
+      "Mahl"
+    ],
     "overview": "Lakshadweep is a tiny union territory made up of coral islands in the Arabian Sea. Its lagoons, reefs, and traditional island life make it one of India’s most distinctive tropical regions.",
     "historical": [
       "For centuries the islands were linked by sea to the Malabar coast and Indian Ocean trade routes.",
@@ -546,15 +723,24 @@
       "Because the islands are coral-based, there are no rivers or natural mountains here."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Lakshadweep" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lakshadweep"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Madhya Pradesh": {
     "capital": "Bhopal",
     "area": "308,252 km²",
     "population": "72.6 million (2011 Census)",
-    "languages": ["Hindi", "Bhili"],
+    "languages": [
+      "Hindi",
+      "Bhili"
+    ],
     "overview": "Madhya Pradesh lies in the heart of India and includes forests, plateaus, river valleys, and some of the country’s most important archaeological sites. It is known for tiger reserves, ancient cave art, temples, and historic cities.",
     "historical": [
       "Bhimbetka’s rock shelters preserve prehistoric art and evidence of very early human life.",
@@ -575,15 +761,24 @@
       "The state is often called the Heart of India because of its central location."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Madhya_Pradesh" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Madhya_Pradesh"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Maharashtra": {
     "capital": "Mumbai",
     "area": "307,713 km²",
     "population": "112.4 million (2011 Census)",
-    "languages": ["Marathi", "Hindi"],
+    "languages": [
+      "Marathi",
+      "Hindi"
+    ],
     "overview": "Maharashtra is one of India’s largest and most economically important states, stretching from the Arabian Sea coast to the Deccan plateau. It combines major cities, industrial centres, hill forts, caves, and rich literary and performing traditions.",
     "historical": [
       "The Maratha state under Chhatrapati Shivaji Maharaj reshaped power politics in early modern India.",
@@ -604,15 +799,24 @@
       "Mumbai is India’s financial capital and one of the world’s major megacities."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Maharashtra" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Maharashtra"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Manipur": {
     "capital": "Imphal",
     "area": "22,327 km²",
     "population": "2.86 million (2011 Census)",
-    "languages": ["Meitei", "English"],
+    "languages": [
+      "Meitei",
+      "English"
+    ],
     "overview": "Manipur is a northeastern state of green hills surrounding a central valley, with a long royal history and strong sporting traditions. It is especially famous for Loktak Lake, classical dance, and indigenous games.",
     "historical": [
       "The Meitei kingdom developed a long courtly and literary tradition in the Imphal valley.",
@@ -633,15 +837,25 @@
       "The rare Sangai deer is the state animal and a symbol of Manipur."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Manipur" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Manipur"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Meghalaya": {
     "capital": "Shillong",
     "area": "22,429 km²",
     "population": "2.97 million (2011 Census)",
-    "languages": ["Khasi", "Garo", "English"],
+    "languages": [
+      "Khasi",
+      "Garo",
+      "English"
+    ],
     "overview": "Meghalaya is a high-rainfall plateau state in northeast India known for misty hills, caves, waterfalls, and living root bridges. Its very name means abode of clouds.",
     "historical": [
       "The Khasi, Jaintia, and Garo hills each developed distinctive political and cultural traditions.",
@@ -662,15 +876,24 @@
       "The state has some of the most famous natural root bridges in the world."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Meghalaya" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Meghalaya"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Mizoram": {
     "capital": "Aizawl",
     "area": "21,081 km²",
     "population": "1.10 million (2011 Census)",
-    "languages": ["Mizo", "English"],
+    "languages": [
+      "Mizo",
+      "English"
+    ],
     "overview": "Mizoram is a mountainous northeastern state of forested ridges, deep valleys, and closely knit communities. It is known for high literacy, bamboo-rich landscapes, and strong community traditions.",
     "historical": [
       "The region was once organized under Mizo chiefs and later came under British administration.",
@@ -691,15 +914,24 @@
       "Bamboo covers a large part of the state’s landscape."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Mizoram" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mizoram"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Nagaland": {
     "capital": "Kohima",
     "area": "16,579 km²",
     "population": "1.98 million (2011 Census)",
-    "languages": ["English", "Nagamese"],
+    "languages": [
+      "English",
+      "Nagamese"
+    ],
     "overview": "Nagaland is a hill state in northeast India known for its many tribes, vibrant festivals, and dramatic mountain scenery. Its cultural diversity is especially striking because each major community has its own traditions, dress, and language.",
     "historical": [
       "The Battle of Kohima in 1944 was a major turning point in the Burma campaign during World War II.",
@@ -720,15 +952,24 @@
       "The Dzukou Valley is famous for seasonal wildflowers and rolling green slopes."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Nagaland" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nagaland"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Odisha": {
     "capital": "Bhubaneswar",
     "area": "155,707 km²",
     "population": "41.9 million (2011 Census)",
-    "languages": ["Odia", "Sambalpuri"],
+    "languages": [
+      "Odia",
+      "Sambalpuri"
+    ],
     "overview": "Odisha has a long Bay of Bengal coastline and a history that links ancient empires, temple building, maritime trade, and tribal cultures. It is famous for Jagannath traditions, classical dance, and important wildlife habitats.",
     "historical": [
       "The Kalinga War, fought in this region, deeply influenced Emperor Ashoka and his embrace of dhamma.",
@@ -749,15 +990,25 @@
       "The Konark Sun Temple is designed around the image of a gigantic stone chariot."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Odisha" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Odisha"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Puducherry": {
     "capital": "Puducherry",
     "area": "490 km²",
     "population": "1.25 million (2011 Census)",
-    "languages": ["Tamil", "Telugu", "Malayalam"],
+    "languages": [
+      "Tamil",
+      "Telugu",
+      "Malayalam"
+    ],
     "overview": "Puducherry is a union territory made up of separate coastal enclaves once ruled by France. Its seaside boulevards, Tamil neighbourhoods, and colonial architecture make it culturally distinctive.",
     "historical": [
       "Puducherry, Karaikal, Mahe, and Yanam were important French settlements in India.",
@@ -778,15 +1029,24 @@
       "Its seaside French Quarter is one of the most recognizable urban landscapes in India."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Puducherry" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Puducherry"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Punjab": {
     "capital": "Chandigarh",
     "area": "50,362 km²",
     "population": "27.7 million (2011 Census)",
-    "languages": ["Punjabi", "Hindi"],
+    "languages": [
+      "Punjabi",
+      "Hindi"
+    ],
     "overview": "Punjab is a fertile northwestern state whose very name means land of five rivers. It has played a major role in Sikh history, agriculture, and India’s modern political story.",
     "historical": [
       "Punjab is deeply connected with the lives of the Sikh Gurus and the rise of Sikh institutions.",
@@ -807,15 +1067,24 @@
       "The Golden Temple serves free meals to huge numbers of visitors every day."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Punjab,_India" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Punjab,_India"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Rajasthan": {
     "capital": "Jaipur",
     "area": "342,239 km²",
     "population": "68.5 million (2011 Census)",
-    "languages": ["Hindi", "Rajasthani"],
+    "languages": [
+      "Hindi",
+      "Rajasthani"
+    ],
     "overview": "Rajasthan is India’s largest state by area and is famous for forts, palaces, desert landscapes, and colourful traditions. It preserves the legacies of many Rajput kingdoms and caravan routes.",
     "historical": [
       "Rajput dynasties built many of the region’s famous hill forts and palace cities.",
@@ -836,15 +1105,25 @@
       "Camels have long been central to travel and trade in the desert districts."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Rajasthan" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rajasthan"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Sikkim": {
     "capital": "Gangtok",
     "area": "7,096 km²",
     "population": "0.61 million (2011 Census)",
-    "languages": ["Nepali", "English", "Lepcha"],
+    "languages": [
+      "Nepali",
+      "English",
+      "Lepcha"
+    ],
     "overview": "Sikkim is a small Himalayan state of glaciers, deep valleys, and spectacular mountain scenery. It is known for monasteries, biodiversity, and the towering presence of Kanchenjunga.",
     "historical": [
       "Sikkim was ruled by the Namgyal dynasty as a Himalayan kingdom for centuries.",
@@ -865,15 +1144,24 @@
       "The red panda is one of the state’s best-known animals."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Sikkim" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sikkim"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Tamil Nadu": {
     "capital": "Chennai",
     "area": "130,058 km²",
     "population": "72.1 million (2011 Census)",
-    "languages": ["Tamil", "English"],
+    "languages": [
+      "Tamil",
+      "English"
+    ],
     "overview": "Tamil Nadu is a major southern state known for ancient literature, powerful temple traditions, manufacturing, and a long coastline. It has one of the world’s oldest continuously used classical languages and a deep record of urban and maritime history.",
     "historical": [
       "Sangam-era literature gives rich evidence of early Tamil society and culture.",
@@ -894,15 +1182,25 @@
       "Tamil Nadu has some of the most elaborate temple towers anywhere in India."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Tamil_Nadu" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tamil_Nadu"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Tripura": {
     "capital": "Agartala",
     "area": "10,486 km²",
     "population": "3.67 million (2011 Census)",
-    "languages": ["Bengali", "Kokborok", "English"],
+    "languages": [
+      "Bengali",
+      "Kokborok",
+      "English"
+    ],
     "overview": "Tripura is a small northeastern state of hills, valleys, forests, and royal heritage. Though compact in size, it preserves a remarkable blend of tribal and Bengali traditions.",
     "historical": [
       "The Manikya dynasty ruled Tripura for centuries and left behind palaces, temples, and administrative traditions.",
@@ -923,15 +1221,24 @@
       "Tripura is an important producer of natural rubber in northeast India."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Tripura" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tripura"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Uttar Pradesh": {
     "capital": "Lucknow",
     "area": "240,928 km²",
     "population": "199.8 million (2011 Census)",
-    "languages": ["Hindi", "Urdu"],
+    "languages": [
+      "Hindi",
+      "Urdu"
+    ],
     "overview": "Uttar Pradesh is India’s most populous state and has shaped the subcontinent’s political, religious, and cultural history for millennia. It contains major pilgrimage cities, fertile plains, Mughal monuments, and key sites of the freedom struggle.",
     "historical": [
       "The Ganga plain in present-day Uttar Pradesh was central to many ancient kingdoms and religious traditions.",
@@ -952,15 +1259,25 @@
       "The Kumbh Mela at Prayagraj has been one of the largest gatherings of people in the world."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Uttar_Pradesh" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Uttar_Pradesh"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "Uttarakhand": {
     "capital": "Dehradun",
     "area": "53,483 km²",
     "population": "10.1 million (2011 Census)",
-    "languages": ["Hindi", "Sanskrit", "Garhwali"],
+    "languages": [
+      "Hindi",
+      "Sanskrit",
+      "Garhwali"
+    ],
     "overview": "Uttarakhand is a Himalayan state of glaciers, pilgrimage routes, mountain forests, and river sources. It is often called Devbhoomi, or Land of the Gods, because of its many sacred sites.",
     "historical": [
       "The Char Dham shrines and many other sacred sites have drawn pilgrims to these mountains for centuries.",
@@ -981,15 +1298,25 @@
       "Jim Corbett National Park in the state is India’s oldest national park."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Uttarakhand" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Uttarakhand"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   },
   "West Bengal": {
     "capital": "Kolkata",
     "area": "88,752 km²",
     "population": "91.3 million (2011 Census)",
-    "languages": ["Bengali", "Nepali", "Hindi"],
+    "languages": [
+      "Bengali",
+      "Nepali",
+      "Hindi"
+    ],
     "overview": "West Bengal stretches from the Himalaya in the north to the Bay of Bengal in the south. It has been central to trade, literature, politics, science, and art in modern Indian history.",
     "historical": [
       "Plassey in Bengal became a turning point in 1757, helping the East India Company expand political control in India.",
@@ -1010,8 +1337,98 @@
       "Royal Bengal tigers are one of the best-known animals associated with the Sundarbans."
     ],
     "links": [
-      { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/West_Bengal" },
-      { "title": "Incredible India", "url": "https://www.incredibleindia.org/" }
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/West_Bengal"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
+    ]
+  },
+  "Telangana": {
+    "capital": "Hyderabad",
+    "area": "112,077 km²",
+    "population": "35.2 million (2011 Census)",
+    "languages": [
+      "Telugu",
+      "Urdu"
+    ],
+    "overview": "Telangana is the youngest state of India, formed in 2014 by bifurcation from Andhra Pradesh. It is known for its rich history under the Nizam dynasty, the iconic Charminar, and its transformation into a global IT hub centered around Hyderabad.",
+    "historical": [
+      "Telangana was part of the Hyderabad State ruled by the Nizams for over two centuries.",
+      "The state was integrated into India in 1948 through Operation Polo (Police Action).",
+      "After decades of the Telangana movement, it became India's 29th state on June 2, 2014.",
+      "The Kakatiya dynasty ruled the region from the 12th to 14th centuries and built the famous Warangal Fort."
+    ],
+    "geological": [
+      "The Deccan Plateau forms most of Telangana's landscape with an average elevation of 500m.",
+      "The Godavari and Krishna rivers are the major rivers flowing through the state.",
+      "Rich deposits of coal are found in the Singareni coalfields, among the oldest in India."
+    ],
+    "cultural": [
+      "Bathukamma is a unique floral festival celebrated by women, distinctive to Telangana.",
+      "Hyderabadi Biryani, originating from the Nizam's kitchens, is world-famous.",
+      "The Ramappa Temple (13th century) is a UNESCO World Heritage Site."
+    ],
+    "funFacts": [
+      "Hyderabad is called the \"City of Pearls\" and was once the richest city in the world under the Nizams.",
+      "The Hussain Sagar Lake in Hyderabad has a 16-meter tall monolithic Buddha statue in the middle."
+    ],
+    "links": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Telangana"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
+    ]
+  },
+  "Ladakh": {
+    "capital": "Leh (and Kargil)",
+    "area": "174,852 km² (claimed)",
+    "population": "0.27 million (2011 Census)",
+    "languages": [
+      "Ladakhi",
+      "Balti",
+      "Hindi",
+      "Urdu"
+    ],
+    "overview": "Ladakh, known as the \"Land of High Passes,\" became a Union Territory in 2019. It is one of the most sparsely populated regions in India, famous for its stunning high-altitude landscapes, ancient Buddhist monasteries, and unique culture blending Tibetan and Central Asian influences.",
+    "historical": [
+      "Ladakh was an independent kingdom from the 10th century until it was annexed by the Dogra rulers of Jammu in 1834.",
+      "The region saw fierce fighting during the 1962 Sino-Indian War, particularly around Aksai Chin.",
+      "The Kargil War of 1999 was fought in the Kargil district of Ladakh.",
+      "Ladakh became a separate Union Territory on October 31, 2019, after the reorganization of J&K."
+    ],
+    "geological": [
+      "Ladakh sits on the Tibetan Plateau and the Karakoram Range, with passes above 5,000 meters.",
+      "Pangong Tso lake, at 4,350m elevation, is one of the highest saltwater lakes in the world.",
+      "The Siachen Glacier in Ladakh is the highest battlefield in the world at over 6,000 meters.",
+      "The region contains parts of the Indus River valley, one of the cradles of civilization."
+    ],
+    "cultural": [
+      "Hemis Monastery hosts the famous Hemis Festival, the biggest Buddhist festival in Ladakh.",
+      "Ladakhi cuisine features thukpa (noodle soup), momos, and butter tea (gur gur chai).",
+      "The region has ancient rock carvings dating back thousands of years along the Indus Valley."
+    ],
+    "funFacts": [
+      "Ladakh has the highest motorable road in the world - Umlingla Pass at 5,883 meters.",
+      "The Magnetic Hill near Leh creates an optical illusion where vehicles appear to roll uphill.",
+      "Ladakh receives more sunlight than any other part of India due to its high altitude and dry air."
+    ],
+    "links": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ladakh"
+      },
+      {
+        "title": "Incredible India",
+        "url": "https://www.incredibleindia.org/"
+      }
     ]
   }
 }
