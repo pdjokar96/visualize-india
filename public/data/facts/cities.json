@@ -1,0 +1,572 @@
+{
+  "Mumbai": {
+    "state": "Maharashtra",
+    "coordinates": [19.076, 72.8777],
+    "population": "12.4 million",
+    "overview": "Mumbai is India’s financial capital and a major port city on the Arabian Sea. It is known for its fast pace, historic architecture, film industry, and enormous economic influence.",
+    "historical": [
+      "Mumbai grew from a group of seven islands into a major colonial and commercial city.",
+      "The city played important roles in the freedom movement, including the Quit India Movement in 1942."
+    ],
+    "cultural": [
+      "Mumbai is the centre of India’s Hindi film industry, often called Bollywood.",
+      "Its culture blends Marathi traditions with influences from communities across India."
+    ],
+    "funFacts": [
+      "The Chhatrapati Shivaji Maharaj Terminus is a UNESCO World Heritage Site.",
+      "Mumbai’s suburban railway is one of the busiest commuter rail networks in the world."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Mumbai" }]
+  },
+  "Delhi": {
+    "state": "Delhi",
+    "coordinates": [28.6139, 77.209],
+    "population": "11.0 million",
+    "overview": "Delhi is India’s national capital and one of the world’s most historically layered urban regions. It contains monuments, markets, government institutions, and neighbourhoods shaped by many different eras.",
+    "historical": [
+      "Delhi has been associated with several historic capitals, from the Delhi Sultanate to the Mughal Empire.",
+      "India’s independence was marked from the Red Fort, one of the city’s most famous landmarks."
+    ],
+    "cultural": [
+      "The city is famous for street food, Mughlai cuisine, and festivals from across India.",
+      "Delhi’s museums, monuments, and book markets make it a major cultural centre."
+    ],
+    "funFacts": [
+      "The Delhi Metro connects large parts of the city and nearby regions.",
+      "Old Delhi and New Delhi feel like very different cities within the same urban area."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Delhi" }]
+  },
+  "Bangalore": {
+    "state": "Karnataka",
+    "coordinates": [12.9716, 77.5946],
+    "population": "8.4 million",
+    "overview": "Bangalore, officially Bengaluru, is India’s leading technology hub. Its pleasant climate, universities, research institutions, and startup ecosystem have made it globally important.",
+    "historical": [
+      "The city is associated with Kempegowda, who helped establish an early fortified settlement here in the 16th century.",
+      "It later grew under Mysore rulers and British cantonment influence."
+    ],
+    "cultural": [
+      "Bangalore has a strong café, music, theatre, and book culture.",
+      "Kannada traditions mix here with a highly cosmopolitan population from across India."
+    ],
+    "funFacts": [
+      "Bangalore is often called India’s Silicon Valley.",
+      "Its Lalbagh Botanical Garden has plants from many parts of the world."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Bangalore" }]
+  },
+  "Chennai": {
+    "state": "Tamil Nadu",
+    "coordinates": [13.0827, 80.2707],
+    "population": "6.7 million",
+    "overview": "Chennai is a major coastal metropolis on the Bay of Bengal and the capital of Tamil Nadu. It is known for music, medicine, manufacturing, and deep ties to Tamil culture.",
+    "historical": [
+      "The city grew around Fort St. George, one of the earliest major British forts in India.",
+      "Its former colonial name was Madras, though Chennai is now the official name."
+    ],
+    "cultural": [
+      "Chennai is a global centre for Carnatic music and Bharatanatyam during the December music season.",
+      "Temples, cinema, and classical arts all play important roles in city life."
+    ],
+    "funFacts": [
+      "Marina Beach in Chennai is one of the world’s longest urban beaches.",
+      "The city is often called the health capital of India because of its many hospitals."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Chennai" }]
+  },
+  "Kolkata": {
+    "state": "West Bengal",
+    "coordinates": [22.5726, 88.3639],
+    "population": "4.5 million",
+    "overview": "Kolkata is a historic river city on the Hooghly and the capital of West Bengal. It is celebrated for literature, art, science, theatre, and political thought.",
+    "historical": [
+      "Kolkata served as the capital of British India until 1911.",
+      "It was a major centre of the Bengal Renaissance and anti-colonial activity."
+    ],
+    "cultural": [
+      "Durga Puja transforms the city into a huge public art and festival space each year.",
+      "Kolkata is famous for bookstores, coffee houses, trams, and Bengali sweets."
+    ],
+    "funFacts": [
+      "Kolkata is the only Indian city with a tram system still operating regularly.",
+      "The Howrah Bridge is one of the city’s best-known engineering landmarks."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Kolkata" }]
+  },
+  "Hyderabad": {
+    "state": "Telangana",
+    "coordinates": [17.385, 78.4867],
+    "population": "6.8 million",
+    "overview": "Hyderabad is a major technology, pharmaceutical, and heritage city in south India. It combines old forts and palaces with a fast-growing modern skyline.",
+    "historical": [
+      "The city was founded by the Qutb Shahi rulers in the late 16th century.",
+      "Hyderabad later became the capital of a princely state ruled by the Nizams."
+    ],
+    "cultural": [
+      "Hyderabad is famous for its biryani, pearls, and the Charminar area’s old-city culture.",
+      "Urdu, Telugu, and Deccani influences mix strongly in the city’s identity."
+    ],
+    "funFacts": [
+      "Golconda near Hyderabad was once linked to the diamond trade.",
+      "The city is a leading centre for vaccines and pharmaceuticals in India."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Hyderabad" }]
+  },
+  "Ahmedabad": {
+    "state": "Gujarat",
+    "coordinates": [23.0225, 72.5714],
+    "population": "5.6 million",
+    "overview": "Ahmedabad is a major city on the Sabarmati River and one of western India’s key industrial and educational centres. It is especially important in the story of Mahatma Gandhi and the textile industry.",
+    "historical": [
+      "Ahmedabad was founded in the 15th century by Sultan Ahmad Shah.",
+      "Sabarmati Ashram in the city was a major base for Gandhi’s freedom movement activities."
+    ],
+    "cultural": [
+      "The old city is known for pol houses, carved wooden facades, and traditional neighbourhood planning.",
+      "Navratri celebrations in Ahmedabad are among the most energetic in India."
+    ],
+    "funFacts": [
+      "Ahmedabad’s historic walled city is a UNESCO World Heritage City.",
+      "The city was once called the Manchester of India because of its textile mills."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Ahmedabad" }]
+  },
+  "Pune": {
+    "state": "Maharashtra",
+    "coordinates": [18.5204, 73.8567],
+    "population": "3.1 million",
+    "overview": "Pune is a major educational, cultural, and technology city in western India. It has deep links to the Maratha period and a strong reputation as a university town.",
+    "historical": [
+      "Pune was an important centre of the Maratha Confederacy and the Peshwas.",
+      "The city later became a key military and educational centre under British rule."
+    ],
+    "cultural": [
+      "Pune is known for Marathi theatre, music, and public Ganesh festival traditions.",
+      "Its colleges and research institutes attract students from across India."
+    ],
+    "funFacts": [
+      "Pune is often called the Oxford of the East.",
+      "The city lies near hill forts and the Western Ghats, making it popular for short trips."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Pune" }]
+  },
+  "Jaipur": {
+    "state": "Rajasthan",
+    "coordinates": [26.9124, 75.7873],
+    "population": "3.1 million",
+    "overview": "Jaipur is the capital of Rajasthan and is famous for forts, palaces, astronomy, and carefully planned streets. Its pink-painted old city gives it the nickname Pink City.",
+    "historical": [
+      "Jaipur was founded in 1727 by Maharaja Sawai Jai Singh II.",
+      "The city was planned with broad streets and grids, which was unusual for its time in South Asia."
+    ],
+    "cultural": [
+      "Jaipur is known for gemstone work, block printing, blue pottery, and traditional jewellery.",
+      "Festivals, folk music, and royal architecture make it one of India’s best-known heritage cities."
+    ],
+    "funFacts": [
+      "Jantar Mantar in Jaipur is a UNESCO-listed astronomical observatory.",
+      "Many buildings in the old city are painted terracotta pink."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Jaipur" }]
+  },
+  "Lucknow": {
+    "state": "Uttar Pradesh",
+    "coordinates": [26.8467, 80.9462],
+    "population": "2.8 million",
+    "overview": "Lucknow is the capital of Uttar Pradesh and is known for refined language, cuisine, music, and architecture. It became especially famous as a centre of Nawabi culture.",
+    "historical": [
+      "Lucknow was a major seat of the Nawabs of Awadh.",
+      "The city saw fierce fighting during the uprising of 1857, including the famous Residency siege."
+    ],
+    "cultural": [
+      "Lucknow is associated with chikankari embroidery and Awadhi cuisine.",
+      "Poetry, etiquette, and classical music have long been linked with the city’s identity."
+    ],
+    "funFacts": [
+      "The Bara Imambara complex contains a famous labyrinth called the Bhul Bhulaiya.",
+      "Many everyday Hindi-Urdu phrases associated with politeness became popular through Lucknow’s court culture."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Lucknow" }]
+  },
+  "Agra": {
+    "state": "Uttar Pradesh",
+    "coordinates": [27.1767, 78.0081],
+    "population": "1.6 million",
+    "overview": "Agra is one of India’s most famous heritage cities and was once a major Mughal capital. It draws visitors from around the world because of its architecture and history.",
+    "historical": [
+      "Agra became a major imperial centre under the Mughals.",
+      "The Taj Mahal and Agra Fort preserve some of the finest examples of Mughal architecture."
+    ],
+    "cultural": [
+      "Agra is known for marble inlay work and Mughal-inspired crafts.",
+      "The city’s food and markets reflect a strong North Indian and Mughal heritage."
+    ],
+    "funFacts": [
+      "The Taj Mahal changes colour slightly with changing light during the day.",
+      "Agra Fort and the Taj Mahal are both UNESCO World Heritage Sites."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Agra" }]
+  },
+  "Varanasi": {
+    "state": "Uttar Pradesh",
+    "coordinates": [25.3176, 82.9739],
+    "population": "1.2 million",
+    "overview": "Varanasi is one of the world’s oldest continuously inhabited cities and a major sacred centre on the Ganga. It is deeply connected with religion, music, education, and craft traditions.",
+    "historical": [
+      "Varanasi has been an important urban and pilgrimage centre for thousands of years.",
+      "It became a major seat of Sanskrit learning and religious scholarship."
+    ],
+    "cultural": [
+      "The ghats of Varanasi are famous for rituals, boat rides, and evening aarti ceremonies.",
+      "Banarasi silk weaving is one of the city’s best-known craft traditions."
+    ],
+    "funFacts": [
+      "The city is also known as Kashi and Banaras.",
+      "Students from many countries come here to study Indian music, philosophy, and religion."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Varanasi" }]
+  },
+  "Amritsar": {
+    "state": "Punjab",
+    "coordinates": [31.634, 74.8723],
+    "population": "1.1 million",
+    "overview": "Amritsar is one of Punjab’s most important cities and a major spiritual centre of Sikhism. It is also a city of memory because of its links to the freedom struggle and Partition.",
+    "historical": [
+      "Amritsar grew around the sacred tank and the Harmandir Sahib, now known as the Golden Temple.",
+      "The Jallianwala Bagh massacre of 1919 made the city central to India’s independence story."
+    ],
+    "cultural": [
+      "The Golden Temple’s langar is a powerful symbol of service and equality.",
+      "Punjabi food, kirtan music, and religious processions are central to city life."
+    ],
+    "funFacts": [
+      "The Golden Temple is covered in gold-plated copper, giving it its famous name.",
+      "The Wagah-Attari border ceremony near Amritsar is one of the region’s best-known public spectacles."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Amritsar" }]
+  },
+  "Chandigarh": {
+    "state": "Chandigarh",
+    "coordinates": [30.7333, 76.7794],
+    "population": "1.1 million",
+    "overview": "Chandigarh is a planned city that serves as the capital of both Punjab and Haryana. It is famous for modern architecture, green spaces, and a clear sector-based layout.",
+    "historical": [
+      "The city was built after Partition when Indian Punjab needed a new capital.",
+      "Its planning and major public buildings are strongly linked with Le Corbusier."
+    ],
+    "cultural": [
+      "Chandigarh blends Punjabi, Haryanvi, and cosmopolitan urban cultures.",
+      "Public spaces like the Rock Garden and Sukhna Lake are central to leisure and city identity."
+    ],
+    "funFacts": [
+      "The Rock Garden was made largely from discarded materials and broken ceramics.",
+      "Sectors in Chandigarh were designed to function like self-contained neighbourhood units."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Chandigarh" }]
+  },
+  "Bhopal": {
+    "state": "Madhya Pradesh",
+    "coordinates": [23.2599, 77.4126],
+    "population": "1.8 million",
+    "overview": "Bhopal is the capital of Madhya Pradesh and is known for lakes, museums, and layered history. It combines royal-era landmarks with modern institutions and access to major heritage sites nearby.",
+    "historical": [
+      "Bhopal was an important princely state and is notable for being ruled by a succession of Begums for much of the 19th and early 20th centuries.",
+      "The 1984 gas tragedy made the city internationally known in a tragic way and highlighted the need for industrial safety."
+    ],
+    "cultural": [
+      "Bhopal is known for museums such as the Tribal Museum and Bharat Bhavan.",
+      "Its culture blends old-city markets, lakeside life, and central Indian traditions."
+    ],
+    "funFacts": [
+      "Bhopal is often called the City of Lakes.",
+      "The UNESCO site of Sanchi is a short journey from Bhopal."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Bhopal" }]
+  },
+  "Thiruvananthapuram": {
+    "state": "Kerala",
+    "coordinates": [8.5241, 76.9366],
+    "population": "0.96 million",
+    "overview": "Thiruvananthapuram is the capital of Kerala and a major coastal city with government institutions, museums, and research centres. It is also closely linked with Kerala’s royal and temple history.",
+    "historical": [
+      "The city was closely associated with the rulers of Travancore.",
+      "Nearby Thumba became important in India’s early space research efforts."
+    ],
+    "cultural": [
+      "The city is known for the Padmanabhaswamy Temple, museums, and Kerala’s classical arts.",
+      "Malayalam literary and political life have long been strong here."
+    ],
+    "funFacts": [
+      "The city’s name means the sacred abode of Lord Ananta.",
+      "It lies close to both beaches and the lush hills of southern Kerala."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Thiruvananthapuram" }]
+  },
+  "Kochi": {
+    "state": "Kerala",
+    "coordinates": [9.9312, 76.2673],
+    "population": "0.68 million",
+    "overview": "Kochi is a major port city on Kerala’s coast and a long-time meeting point for traders from India, Arabia, Europe, and beyond. It is known for its harbour, heritage quarters, and seafood-rich cuisine.",
+    "historical": [
+      "Kochi became important in the spice trade and saw the arrival of Portuguese, Dutch, and British influence.",
+      "Fort Kochi preserves colonial-era streets, churches, and waterfront views."
+    ],
+    "cultural": [
+      "Kochi’s culture reflects Hindu, Christian, Muslim, and Jewish heritage.",
+      "The city hosts the Kochi-Muziris Biennale, an internationally known contemporary art event."
+    ],
+    "funFacts": [
+      "Chinese fishing nets became one of Kochi’s most recognizable symbols.",
+      "Kochi is often called the Queen of the Arabian Sea."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Kochi" }]
+  },
+  "Guwahati": {
+    "state": "Assam",
+    "coordinates": [26.1445, 91.7362],
+    "population": "0.96 million",
+    "overview": "Guwahati is the largest city in Assam and a major gateway to northeast India. Set along the Brahmaputra, it combines commerce, transport, and important religious landmarks.",
+    "historical": [
+      "The city’s history is linked with ancient Pragjyotisha and later Kamrup traditions.",
+      "Its position on the Brahmaputra made it important for trade and communication."
+    ],
+    "cultural": [
+      "The Kamakhya Temple on Nilachal Hill is one of the region’s most important pilgrimage sites.",
+      "Guwahati brings together Assamese culture, river life, and modern urban growth."
+    ],
+    "funFacts": [
+      "The mighty Brahmaputra is much wider here than most rivers passing through big Indian cities.",
+      "Guwahati is often the first stop for people traveling into northeast India."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Guwahati" }]
+  },
+  "Patna": {
+    "state": "Bihar",
+    "coordinates": [25.5941, 85.1376],
+    "population": "1.7 million",
+    "overview": "Patna is the capital of Bihar and stands on the banks of the Ganga. It is one of India’s oldest major cities and has roots in the ancient city of Pataliputra.",
+    "historical": [
+      "Ancient Pataliputra near present-day Patna was a capital of powerful empires such as the Mauryas and Guptas.",
+      "The city remained important through Buddhist, Jain, and later Islamic and colonial periods."
+    ],
+    "cultural": [
+      "Patna connects visitors to Bihar’s larger cultural landscape of learning, pilgrimage, and festivals.",
+      "Markets, sweets, and riverfront life give the city a distinctive eastern Indian character."
+    ],
+    "funFacts": [
+      "Patna’s ancient name, Pataliputra, appears in classical Greek and Indian historical sources.",
+      "The city is closely linked to routes leading to Nalanda, Rajgir, and Bodh Gaya."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Patna" }]
+  },
+  "Bhubaneswar": {
+    "state": "Odisha",
+    "coordinates": [20.2961, 85.8245],
+    "population": "0.88 million",
+    "overview": "Bhubaneswar is the capital of Odisha and is often called the Temple City of India. It combines ancient temple architecture with modern planned neighbourhoods and educational institutions.",
+    "historical": [
+      "The city area has connections to ancient Kalinga and the nearby Dhauli site associated with Ashoka.",
+      "Its old quarter preserves many historic temples from different periods."
+    ],
+    "cultural": [
+      "Bhubaneswar is closely linked to Odissi dance, temple festivals, and Odia food traditions.",
+      "Together with Puri and Konark, it forms a famous heritage triangle in Odisha."
+    ],
+    "funFacts": [
+      "The Lingaraj Temple is one of the city’s best-known landmarks.",
+      "Bhubaneswar was developed as a planned capital after independence."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Bhubaneswar" }]
+  },
+  "Srinagar": {
+    "state": "Jammu and Kashmir",
+    "coordinates": [34.0837, 74.7973],
+    "population": "1.2 million",
+    "overview": "Srinagar is the summer capital of Jammu and Kashmir and is famous for lakes, gardens, and mountain views. It has long been admired for craft traditions and a unique waterfront urban life.",
+    "historical": [
+      "Srinagar developed as a major city in the Kashmir Valley under several dynasties and rulers.",
+      "Mughal gardens around the city show imperial interest in Kashmir’s landscape."
+    ],
+    "cultural": [
+      "The city is known for shawls, carpets, papier-mâché, and walnut wood carving.",
+      "Kashmiri cuisine, Sufi traditions, and houseboat culture all contribute to Srinagar’s identity."
+    ],
+    "funFacts": [
+      "Dal Lake has floating gardens where vegetables are grown.",
+      "Many visitors stay on houseboats instead of in conventional hotels."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Srinagar" }]
+  },
+  "Shimla": {
+    "state": "Himachal Pradesh",
+    "coordinates": [31.1048, 77.1734],
+    "population": "0.17 million",
+    "overview": "Shimla is a hill city in the Himalaya and the capital of Himachal Pradesh. Its cool climate and colonial-era buildings made it famous as a summer retreat.",
+    "historical": [
+      "Shimla became the summer capital of British India in the 19th century.",
+      "Important decisions about colonial governance and later the transfer of power were linked to the city."
+    ],
+    "cultural": [
+      "The Ridge and Mall Road remain central public spaces for festivals and daily life.",
+      "Wood-and-stone hill architecture and church spires give Shimla a distinctive skyline."
+    ],
+    "funFacts": [
+      "The Kalka-Shimla Railway is a UNESCO World Heritage mountain railway.",
+      "Shimla’s steep lanes mean walking is still a big part of getting around the historic centre."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Shimla" }]
+  },
+  "Dehradun": {
+    "state": "Uttarakhand",
+    "coordinates": [30.3165, 78.0322],
+    "population": "0.58 million",
+    "overview": "Dehradun is the capital of Uttarakhand and sits in the Doon Valley between the Himalaya and the Shivaliks. It is known for schools, research institutions, and access to mountain destinations.",
+    "historical": [
+      "Dehradun grew as an administrative and educational centre under British rule.",
+      "It later became the capital of the new state of Uttarakhand in 2000."
+    ],
+    "cultural": [
+      "The city blends Garhwali traditions with a modern educational and service economy.",
+      "It is a common gateway for journeys to Mussoorie, Rishikesh, and the higher Himalaya."
+    ],
+    "funFacts": [
+      "The Forest Research Institute in Dehradun is famous for its grand colonial-era campus.",
+      "The city lies in a valley, so hills rise visibly around much of the urban area."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Dehradun" }]
+  },
+  "Gangtok": {
+    "state": "Sikkim",
+    "coordinates": [27.3389, 88.6065],
+    "population": "0.10 million",
+    "overview": "Gangtok is the capital of Sikkim and a Himalayan hill city known for monasteries, mountain views, and clean streets. It is an important base for understanding Sikkim’s geography and culture.",
+    "historical": [
+      "Gangtok rose to prominence during the period of the Sikkim kingdom and later under Indian administration.",
+      "The city became the capital of Sikkim after the state joined India in 1975."
+    ],
+    "cultural": [
+      "Monasteries, prayer flags, and Buddhist festivals are important parts of the city’s atmosphere.",
+      "Nepali, Bhutia, and Lepcha traditions all shape everyday life in Gangtok."
+    ],
+    "funFacts": [
+      "On clear days, views from around Gangtok can include the mighty Kanchenjunga range.",
+      "Gangtok is often praised for cleanliness and pedestrian-friendly public spaces."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Gangtok" }]
+  },
+  "Imphal": {
+    "state": "Manipur",
+    "coordinates": [24.817, 93.9368],
+    "population": "0.27 million",
+    "overview": "Imphal is the capital of Manipur and the main city of the central valley. It is closely linked with the state’s royal traditions, handloom culture, and modern political life.",
+    "historical": [
+      "Imphal was the historic centre of the Meitei kingdom.",
+      "The Battle of Imphal during World War II made the city internationally significant."
+    ],
+    "cultural": [
+      "Imphal is known for handloom weaving, local markets, and Manipuri dance traditions.",
+      "The women-run Ima Keithel market is one of the city’s most famous institutions."
+    ],
+    "funFacts": [
+      "Ima Keithel is often called one of the world’s largest markets run entirely by women.",
+      "Imphal is a gateway to Loktak Lake and Keibul Lamjao National Park."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Imphal" }]
+  },
+  "Shillong": {
+    "state": "Meghalaya",
+    "coordinates": [25.5788, 91.8933],
+    "population": "0.14 million",
+    "overview": "Shillong is the capital of Meghalaya and a hill city known for pine groves, music, and cool weather. It grew as a colonial hill station and remains a cultural centre for the northeast.",
+    "historical": [
+      "Shillong became important under British rule and later served as the capital of Assam before Meghalaya was formed.",
+      "It became the capital of Meghalaya when the new state was created in 1972."
+    ],
+    "cultural": [
+      "Shillong is famous for live music and has often been called India’s rock capital.",
+      "Khasi cultural traditions are strongly present in and around the city."
+    ],
+    "funFacts": [
+      "The city is sometimes nicknamed the Scotland of the East because of its hills and climate.",
+      "Many waterfalls and viewpoints lie close to Shillong."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Shillong" }]
+  },
+  "Panaji": {
+    "state": "Goa",
+    "coordinates": [15.4909, 73.8278],
+    "population": "0.11 million",
+    "overview": "Panaji is the capital of Goa and a compact riverside city with Portuguese-era neighbourhoods and government buildings. It combines administrative importance with a relaxed coastal atmosphere.",
+    "historical": [
+      "Panaji became prominent during Portuguese rule as an administrative centre.",
+      "It later became the capital of Goa after the territory joined India."
+    ],
+    "cultural": [
+      "The city’s churches, Latin Quarter, and festivals reflect a blend of Goan and Portuguese heritage.",
+      "Konkani food, music, and riverfront celebrations shape local life."
+    ],
+    "funFacts": [
+      "Panaji is much smaller than many Indian state capitals.",
+      "The colourful Fontainhas neighbourhood is one of the city’s best-known heritage areas."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Panaji" }]
+  },
+  "Raipur": {
+    "state": "Chhattisgarh",
+    "coordinates": [21.2514, 81.6296],
+    "population": "1.1 million",
+    "overview": "Raipur is the capital of Chhattisgarh and an important commercial and industrial centre in central India. It links mining and manufacturing zones with surrounding agricultural and forest regions.",
+    "historical": [
+      "Raipur has older roots as a regional market town and administrative centre.",
+      "It became more important after Chhattisgarh was formed as a separate state in 2000."
+    ],
+    "cultural": [
+      "The city reflects both urban growth and the wider cultural traditions of Chhattisgarh’s villages and tribal regions.",
+      "Festivals, folk music, and local cuisine connect it strongly to central Indian traditions."
+    ],
+    "funFacts": [
+      "Raipur lies near the geographic heart of Chhattisgarh.",
+      "The city is a major gateway to the waterfalls, forests, and tribal culture of Bastar and nearby regions."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Raipur" }]
+  },
+  "Ranchi": {
+    "state": "Jharkhand",
+    "coordinates": [23.3441, 85.3096],
+    "population": "1.1 million",
+    "overview": "Ranchi is the capital of Jharkhand and sits on the Chota Nagpur Plateau. It is known for waterfalls, educational institutions, and links to tribal culture and modern industry.",
+    "historical": [
+      "Ranchi developed as an administrative and hill station centre in the colonial period.",
+      "It became the capital of Jharkhand when the state was created in 2000."
+    ],
+    "cultural": [
+      "The city reflects the traditions of surrounding tribal communities as well as modern urban growth.",
+      "Local festivals and markets connect it to the plateau region’s craft and food culture."
+    ],
+    "funFacts": [
+      "Ranchi was once famous as a summer retreat because of its cooler plateau climate.",
+      "Many scenic waterfalls are located within day-trip distance of the city."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Ranchi" }]
+  },
+  "Mysore": {
+    "state": "Karnataka",
+    "coordinates": [12.2958, 76.6394],
+    "population": "0.92 million",
+    "overview": "Mysore, officially Mysuru, is one of south India’s best-known heritage cities. It is famous for palaces, silk, sandalwood, and royal-era public celebrations.",
+    "historical": [
+      "Mysore was the capital of the Wadiyar kingdom and later a princely state.",
+      "The city is also associated with Tipu Sultan and the wider history of Mysore’s resistance in the 18th century."
+    ],
+    "cultural": [
+      "Mysore Dasara is one of India’s grandest festival celebrations.",
+      "The city is known for classical arts, yoga traditions, and craft industries."
+    ],
+    "funFacts": [
+      "Mysore Palace is illuminated with thousands of bulbs during special events.",
+      "Mysore silk and sandalwood products are famous across India."
+    ],
+    "links": [{ "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Mysore" }]
+  }
+}

@@ -1,0 +1,233 @@
+.panel {
+  padding: 16px;
+  height: 100%;
+  overflow-y: auto;
+}
+
+.header {
+  margin-bottom: 16px;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.subtitle {
+  font-size: 13px;
+  color: var(--text-secondary);
+  margin-top: 2px;
+}
+
+.sliderSection {
+  background: var(--bg);
+  padding: 16px;
+  border-radius: var(--radius);
+  margin-bottom: 16px;
+  position: relative;
+}
+
+.sliderHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.yearLabel {
+  font-size: 28px;
+  font-weight: 800;
+  color: var(--primary);
+}
+
+.playBtn {
+  padding: 8px 16px;
+  border: 1px solid var(--primary);
+  border-radius: var(--radius);
+  background: var(--primary-light);
+  color: var(--primary);
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-family: inherit;
+}
+
+.playBtn:hover {
+  background: var(--primary);
+  color: white;
+}
+
+.slider {
+  width: 100%;
+  height: 6px;
+  -webkit-appearance: none;
+  appearance: none;
+  background: var(--border);
+  border-radius: 3px;
+  outline: none;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  background: var(--primary);
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(37, 99, 235, 0.4);
+}
+
+.sliderMarks {
+  position: relative;
+  height: 30px;
+  margin-top: 8px;
+}
+
+.mark {
+  position: absolute;
+  transform: translateX(-50%);
+  font-size: 9px;
+  color: var(--text-secondary);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 2px;
+  font-family: inherit;
+  font-weight: 500;
+}
+
+.markActive {
+  color: var(--primary);
+  font-weight: 700;
+}
+
+.milestoneCard {
+  background: var(--surface);
+  border: 2px solid var(--primary-light);
+  border-radius: var(--radius);
+  padding: 16px;
+  margin-bottom: 16px;
+  animation: fadeIn 0.3s ease;
+}
+
+.milestoneYear {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--primary);
+  background: var(--primary-light);
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 12px;
+  margin-bottom: 8px;
+}
+
+.milestoneTitle {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 8px;
+}
+
+.milestoneDesc {
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--text);
+  margin-bottom: 12px;
+}
+
+.changes {
+  background: var(--bg);
+  border-radius: 6px;
+  padding: 12px;
+}
+
+.changesTitle {
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  color: var(--text-secondary);
+  margin-bottom: 8px;
+}
+
+.changesList {
+  list-style: none;
+  padding: 0;
+}
+
+.changeItem {
+  font-size: 13px;
+  color: var(--text);
+  padding: 4px 0;
+  display: flex;
+  gap: 8px;
+  align-items: flex-start;
+}
+
+.changeDot {
+  color: var(--secondary);
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.timelineList {
+  border-top: 1px solid var(--border);
+  padding-top: 16px;
+}
+
+.timelineListTitle {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 12px;
+}
+
+.timelineItem {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 10px;
+  border: none;
+  background: none;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  border-radius: 6px;
+  transition: background 0.2s;
+  font-family: inherit;
+}
+
+.timelineItem:hover {
+  background: var(--bg);
+}
+
+.timelineItemActive {
+  background: var(--primary-light);
+}
+
+.timelineDot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--border);
+  flex-shrink: 0;
+}
+
+.timelineItemActive .timelineDot {
+  background: var(--primary);
+}
+
+.timelineYear {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--primary);
+  min-width: 36px;
+}
+
+.timelineLabel {
+  font-size: 13px;
+  color: var(--text);
+}
