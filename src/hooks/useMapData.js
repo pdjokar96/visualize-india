@@ -11,11 +11,12 @@ export function useMapData() {
   useEffect(() => {
     async function loadData() {
       try {
+        const base = import.meta.env.BASE_URL;
         const [geoRes, factsRes, citiesRes, eventsRes] = await Promise.all([
-          fetch('/data/geojson/india-states.geojson'),
-          fetch('/data/facts/states.json'),
-          fetch('/data/facts/cities.json'),
-          fetch('/data/events.json'),
+          fetch(`${base}data/geojson/india-states.geojson`),
+          fetch(`${base}data/facts/states.json`),
+          fetch(`${base}data/facts/cities.json`),
+          fetch(`${base}data/events.json`),
         ]);
 
         if (!geoRes.ok) throw new Error('Failed to load map data');

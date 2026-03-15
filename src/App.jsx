@@ -75,7 +75,7 @@ export default function App() {
 
     async function loadHistoricalGeo() {
       try {
-        const response = await fetch(`/data/geojson/historical/${fileYear}.geojson`);
+        const response = await fetch(`${import.meta.env.BASE_URL}data/geojson/historical/${fileYear}.geojson`);
         if (!response.ok) {
           if (!cancelled) setHistoricalGeo(null);
           return;
